@@ -43,8 +43,7 @@ Full architecture, design decisions, and what was deliberately left out of scope
 
 ## About this repository
 
-This is a summary repository -- the full source (built, tested, with CI) is available on request
-or live during an interview.
+This is a summary repository -- the full source (built, tested, with CI) is available on request or live during an interview.
 
 ## Author
 
